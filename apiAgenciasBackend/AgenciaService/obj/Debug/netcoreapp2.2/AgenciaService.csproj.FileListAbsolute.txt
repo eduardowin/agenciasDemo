@@ -14,3 +14,5 @@ D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\obj\Debug\netcore
 D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\obj\Debug\netcoreapp2.2\AgenciaService.csproj.CopyComplete
 D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\obj\Debug\netcoreapp2.2\AgenciaService.dll
 D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\obj\Debug\netcoreapp2.2\AgenciaService.pdb
+D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Hosting.dll
+D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Hosting.xml

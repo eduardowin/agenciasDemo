@@ -10,6 +10,7 @@
         "dependencies": {
           "AgenciaRepository": "1.0.0",
           "RestSharp": "106.6.10",
+          "Microsoft.AspNetCore.Hosting.Abstractions": "2.2.0.0",
           "Microsoft.AspNetCore.Hosting": "2.2.0.0",
           "Microsoft.Extensions.Configuration.Abstractions": "2.2.0.0"
         },
@@ -648,6 +649,14 @@
           "AgenciasCrossCutting.dll": {}
         }
       },
+      "Microsoft.AspNetCore.Hosting.Abstractions/2.2.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Hosting.Abstractions.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Hosting/2.2.0.0": {
         "runtime": {
           "Microsoft.AspNetCore.Hosting.dll": {
@@ -1134,6 +1143,11 @@
     },
     "AgenciasCrossCutting/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Hosting.Abstractions/2.2.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     },

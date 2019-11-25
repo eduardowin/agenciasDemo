@@ -37,17 +37,13 @@ namespace apiAgenciasBackend.Controllers
         public async Task<ActionResult> GetAgencias(string pCriterio, int pNumeroDePagina = 1, int pCantidadDeRegistros = 10)
         {
             var oUsuarioHelper = new UsuarioHelper(_configuration);
-            //var oRolLogic = new RolLogic(_configuration);
-
             var oUsuarioDto = oUsuarioHelper.ObtenerUsuarioDeClaims(this.HttpContext);
-            var oListaRoles = await _iRolService.GetAgencia(pCriterio );
-            var oListaRolDto = _mapper.Map<List<AgenciaDto>>(oListaRoles).ToList();
+            var agenciasDto = await _iRolService.GetAgencia(pCriterio );
+            var AgenciaConsultaDto = _mapper.Map<List<AgenciaConsultaDto>>(agenciasDto).ToList();
 
-            //oRolLogic.AgregarActionLink(ref oListaRolDto);
-
-            var oResponseConsultaDto = new ResponseConsultaDto<AgenciaDto>()
+            var oResponseConsultaDto = new ResponseConsultaDto<AgenciaConsultaDto>()
             {
-                ResResult = oListaRolDto,
+                ResResult = AgenciaConsultaDto,
                 ResStatus = Constantes.ResultadoSistema.Ok
             };
 

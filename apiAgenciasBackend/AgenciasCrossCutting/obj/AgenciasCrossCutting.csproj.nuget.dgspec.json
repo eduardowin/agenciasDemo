@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DemoAgencias\\agenciasDemo\\apiAgenciasBackend\\AgenciasCrossCutting\\AgenciasCrossCutting.csproj": {}
+  },
+  "projects": {
+    "D:\\DemoAgencias\\agenciasDemo\\apiAgenciasBackend\\AgenciasCrossCutting\\AgenciasCrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DemoAgencias\\agenciasDemo\\apiAgenciasBackend\\AgenciasCrossCutting\\AgenciasCrossCutting.csproj",
+        "projectName": "AgenciasCrossCutting",
+        "projectPath": "D:\\DemoAgencias\\agenciasDemo\\apiAgenciasBackend\\AgenciasCrossCutting\\AgenciasCrossCutting.csproj",
+        "packagesPath": "C:\\Users\\FU46258239-ext\\.nuget\\packages\\",
+        "outputPath": "D:\\DemoAgencias\\agenciasDemo\\apiAgenciasBackend\\AgenciasCrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FU46258239-ext\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

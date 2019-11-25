@@ -1,0 +1,16 @@
+D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\obj\Debug\netcoreapp2.2\AgenciaService.csproj.CoreCompileInputs.cache
+D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\obj\Debug\netcoreapp2.2\AgenciaService.AssemblyInfoInputs.cache
+D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\obj\Debug\netcoreapp2.2\AgenciaService.AssemblyInfo.cs
+D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\bin\Debug\netcoreapp2.2\AgenciaService.deps.json
+D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\bin\Debug\netcoreapp2.2\AgenciaService.dll
+D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\bin\Debug\netcoreapp2.2\AgenciaService.pdb
+D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\bin\Debug\netcoreapp2.2\AgenciaRepository.dll
+D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\bin\Debug\netcoreapp2.2\AgenciasCrossCutting.dll
+D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\bin\Debug\netcoreapp2.2\AgenciaRepository.pdb
+D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\bin\Debug\netcoreapp2.2\AgenciasCrossCutting.pdb
+D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\obj\Debug\netcoreapp2.2\AgenciaService.csprojAssemblyReference.cache
+D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\obj\Debug\netcoreapp2.2\AgenciaService.csproj.CopyComplete
+D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\obj\Debug\netcoreapp2.2\AgenciaService.dll
+D:\DemoAgencias\agenciasDemo\apiAgenciasBackend\AgenciaService\obj\Debug\netcoreapp2.2\AgenciaService.pdb

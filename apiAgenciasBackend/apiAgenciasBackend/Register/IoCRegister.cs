@@ -24,6 +24,7 @@ namespace apiAgenciasBackend.Register
         private static IServiceCollection AddRegisterServices(IServiceCollection services)
         {
             services.AddScoped<ILoginService, LoginService>();
+            services.AddScoped<IAgenciaService, AgenciasService>();
 
             return services;
         }

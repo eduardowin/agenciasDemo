@@ -1,0 +1,20 @@
+ 
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th>Distrito</th>
+      <th>Provincia</th>
+      <th>Departamento</th> 
+      <th>Direccion</th> 
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let employee of agencias">
+      <td> {{employee.distrito}}</td>
+      <td>{{employee.provincia}}</td>
+      <td>{{employee.departamento}}</td>
+      <td>{{employee.direccion}}</td> 
+    </tr>
+  </tbody>
+</table>
+
